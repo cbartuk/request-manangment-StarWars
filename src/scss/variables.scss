@@ -1,0 +1,14 @@
+$font-family-sans-serif: "Roboto", sans-serif;
+
+$white: #ffffff;
+$black: #000000;
+
+$body-bg: $black;
+$body-color: $white;
+$link-color: $white;
+$link-decoration: none;
+
+:export {
+  white: $white;
+  black: $black;
+}
